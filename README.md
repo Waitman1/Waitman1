@@ -15,10 +15,10 @@
 ![visual-studio-code](https://user-images.githubusercontent.com/81375304/136478046-cd477656-c758-4624-967a-31c82c63144d.png)
 ### 🏆Моя статистика:
 <div>
-  <a href="https://github-readme-stats.vercel.app/api?username=Waitman1&hide=contribs&show_icons=true&theme=react">
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=Waitman1&hide=contribs&show_icons=true&theme=react">
     <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Waitman1&hide=contribs&show_icons=true&theme=github_dark" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Waitman1&layout=compact&theme=react">
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Waitman1&layout=compact&theme=react">
     <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waitman1&layout=compact&theme=github_dark" />
   </a>
 </div>
