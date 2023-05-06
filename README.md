@@ -17,6 +17,8 @@
 ![git](https://user-images.githubusercontent.com/81375304/136477670-e76f845e-dea9-4892-b2de-efa9158c2642.png)
 ![visual-studio-code](https://user-images.githubusercontent.com/81375304/136478046-cd477656-c758-4624-967a-31c82c63144d.png)
 ### 🏆Моя статистика:
-[![Waitman1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waitman1&show_icons=true&theme=dark)](https://github.com/Waitman1/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waitman1&layout=compact&theme=dark)](https://github.com/Waitman1/github-readme-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waitman1&theme=outrun) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Waitman1&theme=outrun) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Waitman1&theme=outrun) 
 
